@@ -1,1 +1,1 @@
-# Teste de consulta ao Web Service dos correios 
+# Consulta ao Web Service dos correios 
